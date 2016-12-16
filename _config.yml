@@ -1,0 +1,9 @@
+# Compress SASS stylesheets
+sass:
+    style: :compressed
+
+# Social
+title: RSELeeds
+description: A network for research software engineers, and those who support them, at the University of Leeds.
+twitter: RSELeeds
+authors: Martin Callaghan, Chris Empson, Joanna Leng, Chris Wareing

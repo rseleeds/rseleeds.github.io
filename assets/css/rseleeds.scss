@@ -8,13 +8,27 @@
 }
 
 
-.index-jumbotron {
+.green-jumbotron {
     @include white-text;
-    background-color: #5cb85c;
+    background-color: #4caf50;
     background-image: linear-gradient(to bottom, #4caf50 0, #5cb85c 100%);
 }
 
-.index-jumbotron > h1 {
+.blue-jumbotron {
+    @include white-text;
+    background-color: #0d87e9;
+    background-image: linear-gradient(to bottom, #0d87e9 0, #2196f3 100%);
+}
+
+.grey-jumbotron {
+    background-color: #e5e5e5;
+    background-image: linear-gradient(to bottom, #e5e5e5 0, #f0f0f0, 100%);
+}
+
+
+.green-jumbotron > h1,
+.blue-jumbotron > h1 {
     @include white-text;
 }
+
 

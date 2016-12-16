@@ -2,8 +2,19 @@
 ---
 @import "bootstrap";
 
-.index-jumbotron {
+// Mixins
+@mixin white-text {
     color: #fff;
+}
+
+
+.index-jumbotron {
+    @include white-text;
     background-color: #5cb85c;
     background-image: linear-gradient(to bottom, #4caf50 0, #5cb85c 100%);
 }
+
+.index-jumbotron > h1 {
+    @include white-text;
+}
+

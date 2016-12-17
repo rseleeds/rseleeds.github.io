@@ -1,0 +1,12 @@
+---
+layout: default
+permalink: /tools/
+title: Tools
+---
+{% for post in site.categories.Tools %}
+  <div class="row">
+    {% capture post_name %}{{ post | first }}{% endcapture %}
+    <div id="#{{ post_name | slugize }}"></div>
+    <p></p>
+  </div>
+{% endfor %}

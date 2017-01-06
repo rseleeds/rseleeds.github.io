@@ -4,6 +4,7 @@ title: Initial meeting
 categories: Events
 published: true
 author: Chris Empson
+excerpt: A quick rundown of what happened at the launch meeting.
 ---
 <p>
 The first meeting of the fledgling Leeds RSE network was held on Monday 12th December 2016.

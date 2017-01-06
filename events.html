@@ -4,15 +4,8 @@ title: Events
 category: events
 ---
 <ul>
-{% unless site.categories.[page.category] | size > 0 %}
-  <p>No posts in this category at this time.</p>
-{% endunless %}
-
-{% for post in site.categories.[page.category] %}
+{% for post in site.posts %}
   {{ post.title }}
-  {% if post.url %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endif %}
 {% endfor %}
 </ul>
 

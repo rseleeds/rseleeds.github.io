@@ -4,8 +4,15 @@ title: Events
 category: events
 ---
 <ul>
+{% unless site.categories.[page.category] | size > 0 %}
+  <p>No posts in this category at this time.</p>
+{% endunless %}
+
 {% for post in site.posts %}
-  {{ post.title }}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
 {% endfor %}
 </ul>
 

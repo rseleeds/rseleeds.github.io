@@ -1,3 +1,6 @@
+# Include the directory containing posts
+include: ["_pages"]
+
 # Compress SASS stylesheets
 sass:
     style: :compressed

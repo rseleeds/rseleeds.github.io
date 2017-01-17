@@ -86,4 +86,3 @@ excerpt: A quick rundown of what happened at the launch meeting.
   </div>
 </div>
 
-</p>

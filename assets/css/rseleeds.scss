@@ -2,6 +2,10 @@
 ---
 @import "bootstrap";
 
+body {
+    font-size: 14px;
+}
+
 // Mixins
 @mixin white-text {
     color: #fff;

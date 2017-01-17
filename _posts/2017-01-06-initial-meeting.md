@@ -56,12 +56,12 @@ excerpt: A quick rundown of what happened at the launch meeting.
         <a href="https://github.com/rseleeds/rseleeds.github.io/blob/master/assets/img/2017-01-06-initial-meeting/3-1.jpg" target="_blank"><img src="/assets/img/2017-01-06-initial-meeting/3-1_tn.jpg" /></a>
       </div>
     </div>
-    <div class="col-md-4">
+    <div class="col-md-6">
       <div class="thumbnail">
         <a href="https://github.com/rseleeds/rseleeds.github.io/blob/master/assets/img/2017-01-06-initial-meeting/3-2.jpg" target="_blank"><img src="/assets/img/2017-01-06-initial-meeting/3-2_tn.jpg" /></a>
       </div>
     </div>
-    <div class="col-md-4">
+    <div class="col-md-6">
       <div class="thumbnail">
         <a href="https://github.com/rseleeds/rseleeds.github.io/blob/master/assets/img/2017-01-06-initial-meeting/3-3.jpg" target="_blank"><img src="/assets/img/2017-01-06-initial-meeting/3-3_tn.jpg" /></a>
       </div>

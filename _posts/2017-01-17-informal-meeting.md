@@ -8,7 +8,7 @@ subtitle: Join us for a coffee and an informal discussion about training.
 ---
 <div class="container">
   <div class="row">
-  <h1>Informal coffee shop meeting</h1>
+  <h3>Informal coffee shop meeting</h3>
   </div>
   <div class="row">
   We will be holding an informal meeting for coffee and a chat at 3:00pm on Wednesday 17th January in the Balcony Cafe, which is above the Refectory.

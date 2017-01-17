@@ -12,7 +12,7 @@ subtitle: Join us for a coffee and an informal discussion about training.
   </div>
 
   <div class="row">
-    <div class="panel panel-info">
+    <div class="panel panel-primary">
       <div class="panel-heading">
         3pm, Wednesday 17th January in the Balcony Cafe, above the Refectory.
       </div>

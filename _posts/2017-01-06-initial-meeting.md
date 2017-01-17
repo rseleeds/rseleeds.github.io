@@ -42,13 +42,13 @@ excerpt: A quick rundown of what happened at the launch meeting.
   3. What methodologies do we use? And is this different to computing methodologies that are not used for research?
   </div>
   <div class="row">
-    <div class="col-md-3">
+    <div class="col-md-6">
       <a href="https://github.com/rseleeds/rseleeds.github.io/blob/master/assets/img/2017-01-06-initial-meeting/3-1.jpg" target="_blank"><img src="/assets/img/2017-01-06-initial-meeting/3-1_tn.jpg" /></a>
     </div>
-    <div class="col-md-3">
+    <div class="col-md-4">
       <a href="https://github.com/rseleeds/rseleeds.github.io/blob/master/assets/img/2017-01-06-initial-meeting/3-2.jpg" target="_blank"><img src="/assets/img/2017-01-06-initial-meeting/3-2_tn.jpg" /></a>
     </div>
-    <div class="col-md-3">
+    <div class="col-md-4">
       <a href="https://github.com/rseleeds/rseleeds.github.io/blob/master/assets/img/2017-01-06-initial-meeting/3-3.jpg" target="_blank"><img src="/assets/img/2017-01-06-initial-meeting/3-3_tn.jpg" /></a>
     </div>
   </div>

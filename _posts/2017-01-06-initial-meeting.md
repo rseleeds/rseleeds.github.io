@@ -42,7 +42,7 @@ Small, rotating group discussions produced the following responses:
 3. What methodologies do we use? And is this different to computing methodologies that are not used for research?
 </p>
 <p>
-<table><tr><td>
+<table class="table"><tr><td>
 <a href="https://github.com/rseleeds/rseleeds.github.io/blob/master/assets/img/2017-01-06-initial-meeting/3-1.jpg" target="_blank"><img src="/assets/img/2017-01-06-initial-meeting/3-1_tn.jpg" /></a>
 </td><td>
 <a href="https://github.com/rseleeds/rseleeds.github.io/blob/master/assets/img/2017-01-06-initial-meeting/3-2.jpg" target="_blank"><img src="/assets/img/2017-01-06-initial-meeting/3-2_tn.jpg" /></a>

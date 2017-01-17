@@ -55,7 +55,7 @@ Small, rotating group discussions produced the following responses:
 4. What makes an ideal career?
 </p>
 <p>
-<a href="https://github.com/rseleeds/rseleeds.github.io/blob/master/assets/img/2017-01-06-initial-meeting/4.jpg" target="_blank"><img src="https://github.com/rseleeds/rseleeds.github.io/blob/master/assets/img/2017-01-06-initial-meeting/4_tn.jpg" /></a>
+<a href="https://github.com/rseleeds/rseleeds.github.io/blob/master/assets/img/2017-01-06-initial-meeting/4.jpg" target="_blank"><img src="/assets/img/2017-01-06-initial-meeting/4_tn.jpg" /></a>
 </p>
 
 <p>

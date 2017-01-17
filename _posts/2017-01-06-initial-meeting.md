@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Initial meeting
 categories: Events
 published: true

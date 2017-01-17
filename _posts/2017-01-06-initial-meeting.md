@@ -28,8 +28,10 @@ excerpt: A quick rundown of what happened at the launch meeting.
     1. What do we want from the network?
   </div>
   <div class="row">
-    <div class="thumbnail">
-      <a href="https://github.com/rseleeds/rseleeds.github.io/blob/master/assets/img/2017-01-06-initial-meeting/1.jpg" target="_blank"><img src="/assets/img/2017-01-06-initial-meeting/1_tn.jpg" /></a>
+    <div class="col-md-6">
+      <div class="thumbnail">
+        <a href="https://github.com/rseleeds/rseleeds.github.io/blob/master/assets/img/2017-01-06-initial-meeting/1.jpg" target="_blank"><img src="/assets/img/2017-01-06-initial-meeting/1_tn.jpg" /></a>
+      </div>
     </div>
   </div>
 
@@ -37,8 +39,11 @@ excerpt: A quick rundown of what happened at the launch meeting.
     2. How well is the adoption of computer aided research going? - at Leeds and elsewhere?
   </div>
   <div class="row">
-    <div class="thumbnail">
-      <a href="https://github.com/rseleeds/rseleeds.github.io/blob/master/assets/img/2017-01-06-initial-meeting/2.jpg" target="_blank"><img src="/assets/img/2017-01-06-initial-meeting/2_tn.jpg" /></a>
+    <div class="col-md-6">
+
+      <div class="thumbnail">
+        <a href="https://github.com/rseleeds/rseleeds.github.io/blob/master/assets/img/2017-01-06-initial-meeting/2.jpg" target="_blank"><img src="/assets/img/2017-01-06-initial-meeting/2_tn.jpg" /></a>
+      </div>
     </div>
   </div>
 
@@ -66,8 +71,10 @@ excerpt: A quick rundown of what happened at the launch meeting.
   4. What makes an ideal career?
   </div>
   <div class="row">
-    <div class="thumbnail">
-    <a href="https://github.com/rseleeds/rseleeds.github.io/blob/master/assets/img/2017-01-06-initial-meeting/4.jpg" target="_blank"><img src="/assets/img/2017-01-06-initial-meeting/4_tn.jpg" /></a>
+    <div class="col-md-6">
+      <div class="thumbnail">
+      <a href="https://github.com/rseleeds/rseleeds.github.io/blob/master/assets/img/2017-01-06-initial-meeting/4.jpg" target="_blank"><img src="/assets/img/2017-01-06-initial-meeting/4_tn.jpg" /></a>
+      </div>
     </div>
   </div>
 

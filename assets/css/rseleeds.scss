@@ -6,6 +6,10 @@ body {
     font-size: 14px;
 }
 
+img {
+    margin: 20px;
+}
+
 // Mixins
 @mixin white-text {
     color: #fff;

@@ -4,7 +4,7 @@ title: Initial meeting
 categories: events
 published: true
 author: Chris Empson
-excerpt: A quick rundown of what happened at the launch meeting.
+subtitle: A quick rundown of what happened at the launch meeting.
 ---
 <div class="container">
   <div class="row">

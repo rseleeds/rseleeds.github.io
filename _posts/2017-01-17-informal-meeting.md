@@ -3,7 +3,7 @@ layout: default
 title: Informal coffee shop meeting: 3pm, 17th January 2017
 categories: events
 published: true
-author: Chris Empson / Joanna Leng
+author: Chris Empson
 subtitle: Join us for a coffee and an informal discussion about training.
 ---
 <div class="container">

@@ -28,21 +28,21 @@ Small, rotating group discussions produced the following responses:
 1. What do we want from the network?
 </p>
 <p>
-<a href="https://github.com/rseleeds/rseleeds.github.io/blob/master/assets/img/2017-01-06-initial-meeting/1.jpg" target="_blank"><img src="https://github.com/rseleeds/rseleeds.github.io/blob/master/assets/img/2017-01-06-initial-meeting/1_tn.jpg" /></a>
+<a href="https://github.com/rseleeds/rseleeds.github.io/blob/master/assets/img/2017-01-06-initial-meeting/1.jpg" target="_blank"><img src="/assets/img/2017-01-06-initial-meeting/1_tn.jpg" /></a>
 </p>
 
 <p>
 2. How well is the adoption of computer aided research going? - at Leeds and elsewhere?
 </p>
 <p>
-<a href="https://github.com/rseleeds/rseleeds.github.io/blob/master/assets/img/2017-01-06-initial-meeting/2.jpg" target="_blank"><img src="https://github.com/rseleeds/rseleeds.github.io/blob/master/assets/img/2017-01-06-initial-meeting/2_tn.jpg" /></a>
+<a href="https://github.com/rseleeds/rseleeds.github.io/blob/master/assets/img/2017-01-06-initial-meeting/2.jpg" target="_blank"><img src="/assets/img/2017-01-06-initial-meeting/2_tn.jpg" /></a>
 </p>
 
 <p>
 3. What methodologies do we use? And is this different to computing methodologies that are not used for research?
 </p>
 <p>
-<a href="https://github.com/rseleeds/rseleeds.github.io/blob/master/assets/img/2017-01-06-initial-meeting/3-1.jpg" target="_blank"><img src="https://github.com/rseleeds/rseleeds.github.io/blob/master/assets/img/2017-01-06-initial-meeting/3-1_tn.jpg" /></a> | <a href="https://github.com/rseleeds/rseleeds.github.io/blob/master/assets/img/2017-01-06-initial-meeting/3-2.jpg" target="_blank"><img src="https://github.com/rseleeds/rseleeds.github.io/blob/master/assets/img/2017-01-06-initial-meeting/3-2_tn.jpg" /></a> | <a href="https://github.com/rseleeds/rseleeds.github.io/blob/master/assets/img/2017-01-06-initial-meeting/3-3.jpg" target="_blank"><img src="https://github.com/rseleeds/rseleeds.github.io/blob/master/assets/img/2017-01-06-initial-meeting/3-3_tn.jpg" /></a>
+<a href="https://github.com/rseleeds/rseleeds.github.io/blob/master/assets/img/2017-01-06-initial-meeting/3-1.jpg" target="_blank"><img src="/assets/img/2017-01-06-initial-meeting/3-1_tn.jpg" /></a> | <a href="https://github.com/rseleeds/rseleeds.github.io/blob/master/assets/img/2017-01-06-initial-meeting/3-2.jpg" target="_blank"><img src="/assets/img/2017-01-06-initial-meeting/3-2_tn.jpg" /></a> | <a href="https://github.com/rseleeds/rseleeds.github.io/blob/master/assets/img/2017-01-06-initial-meeting/3-3.jpg" target="_blank"><img src="/assets/img/2017-01-06-initial-meeting/3-3_tn.jpg" /></a>
 </p>
 
 <p>
@@ -52,4 +52,10 @@ Small, rotating group discussions produced the following responses:
 <a href="https://github.com/rseleeds/rseleeds.github.io/blob/master/assets/img/2017-01-06-initial-meeting/4.jpg" target="_blank"><img src="https://github.com/rseleeds/rseleeds.github.io/blob/master/assets/img/2017-01-06-initial-meeting/4_tn.jpg" /></a>
 </p>
 
+<p>
+At the end of the meeting everyone was asked to write down one thing that they wanted from the network, and one thing that they could contribute to the network.
+</p>
 
+<p>
+
+</p>

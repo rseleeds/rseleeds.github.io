@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Informal coffee shop meeting: 3pm, 17th January 2017
+title: Informal coffee shop meeting
 categories: events
 published: true
 author: Chris Empson

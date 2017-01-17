@@ -14,13 +14,13 @@ Over 50 developers, academics, researchers, support staff and IT professionals
 attended and began to define what the network should look like and do.
 </p>
 <p>
-The meeting started with a [presentation by Dr. Joanna Leng](https://github.com/rseleeds/rseleeds.github.io/blob/master/assets/pdf/LengRSELeedsFirstMeeting2016_12_12_1.pdf "Download slides") from the Advanced Research Computing service. After setting the scene Jo posed four questions:
-
-1. What do we want from the network?
-2. How well is the adoption of computer aided research going? - at Leeds and elsewhere?
-3. What methodologies do we use? And is this different to computing methodologies that are not used for research?
-4. What makes an ideal career?
-
+The meeting started with a <a href="https://github.com/rseleeds/rseleeds.github.io/blob/master/assets/pdf/LengRSELeedsFirstMeeting2016_12_12_1.pdf">presentation by Dr. Joanna Leng</a> from the Advanced Research Computing service. After setting the scene Jo posed four questions:
+<ol>
+<li>What do we want from the network?</li>
+<li>How well is the adoption of computer aided research going? - at Leeds and elsewhere?</li>
+<li>What methodologies do we use? And is this different to computing methodologies that are not used for research?</li>
+<li>What makes an ideal career?</li>
+</ol>
 Small, rotating group discussions produced the following responses:
 </p>
 
@@ -42,7 +42,13 @@ Small, rotating group discussions produced the following responses:
 3. What methodologies do we use? And is this different to computing methodologies that are not used for research?
 </p>
 <p>
-<a href="https://github.com/rseleeds/rseleeds.github.io/blob/master/assets/img/2017-01-06-initial-meeting/3-1.jpg" target="_blank"><img src="/assets/img/2017-01-06-initial-meeting/3-1_tn.jpg" /></a> | <a href="https://github.com/rseleeds/rseleeds.github.io/blob/master/assets/img/2017-01-06-initial-meeting/3-2.jpg" target="_blank"><img src="/assets/img/2017-01-06-initial-meeting/3-2_tn.jpg" /></a> | <a href="https://github.com/rseleeds/rseleeds.github.io/blob/master/assets/img/2017-01-06-initial-meeting/3-3.jpg" target="_blank"><img src="/assets/img/2017-01-06-initial-meeting/3-3_tn.jpg" /></a>
+<table><tr><td>
+<a href="https://github.com/rseleeds/rseleeds.github.io/blob/master/assets/img/2017-01-06-initial-meeting/3-1.jpg" target="_blank"><img src="/assets/img/2017-01-06-initial-meeting/3-1_tn.jpg" /></a>
+</td><td>
+<a href="https://github.com/rseleeds/rseleeds.github.io/blob/master/assets/img/2017-01-06-initial-meeting/3-2.jpg" target="_blank"><img src="/assets/img/2017-01-06-initial-meeting/3-2_tn.jpg" /></a>
+</td><td>
+<a href="https://github.com/rseleeds/rseleeds.github.io/blob/master/assets/img/2017-01-06-initial-meeting/3-3.jpg" target="_blank"><img src="/assets/img/2017-01-06-initial-meeting/3-3_tn.jpg" /></a>
+</td></tr></table>
 </p>
 
 <p>

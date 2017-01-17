@@ -10,17 +10,31 @@ subtitle: Join us for a coffee and an informal discussion about training.
   <div class="row">
   <h3>Informal coffee shop meeting</h3>
   </div>
-  <div class="row">
-  We will be holding an informal meeting for coffee and a chat at 3:00pm on Wednesday 17th January in the Balcony Cafe, which is above the Refectory.
-  </div>
-  <div class="row">
-  The discussion topic will be training. We will bring pens and paper so we can collect ideas and views.
-  </div>
-  <div class="row">
-  If you have a different burning issue you want to discuss feel free to include that as well.
-  </div>
-  <div class="row">
-  If you want to ask question I will also bring some post-its. A post-it with an Q (q is for question) on it is someone asking for help and a post-it with a A (a is for answer) on it is someone offering help.
+
+  <div class="panel panel-info">
+    <div class="panel-heading">
+      3pm, Wednesday 17th January in the Balcony Cafe, above the Refectory.
+    </div>
+    <div class="panel-body">
+      <div class="row">
+      Our first meeting in 2017 will be held in the Balcony Cafe, above the Refectory in the Students' Union building. 
+      </div>
+      <div class="row">
+      The discussion topic will be training. We will bring pens and paper so we can collect ideas and views.
+      </div>
+      <div class="row">
+      If you have a different burning issue you want to discuss feel free to include that as well.
+      </div>
+      <div class="row">
+      We'd also like to help to connect people who may need help on a specific topic with others who may be able to help them. If you would like to ask a question Post-It notes will be available. We'll add any Post-It questions to this website so that possible helpers can help you to find the answer you're looking for.
+      </div>
+      <div class="row">
+      Alternatively if you would like to make your skills or expertise in a certain area available to others, we'll provide Post-It notes for you to advertise this, too.
+      </div>
+      <div class="row">
+      We look forward to seeing you at the meeting!
+      </div>
+    </div>
   </div>
 </div>
 

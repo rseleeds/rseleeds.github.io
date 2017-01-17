@@ -8,7 +8,7 @@ subtitle: A quick rundown of what happened at the launch meeting.
 ---
 <div class="container">
   <div class="row">
-  <h1>Initial meeting</h1>
+  <h3>Initial meeting</h3>
   </div>
   <div class="row">
   The first meeting of the fledgling Leeds RSE network was held on Monday 12th December 2016.

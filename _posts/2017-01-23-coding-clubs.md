@@ -8,6 +8,10 @@ subtitle: Join a programming club! Meet new people, learn new skills and build e
 ---
 <div class="container">
   <div class="row">
+  <h2>Programming Clubs</h2>
+  </div>
+
+  <div class="row">
   <h3>Coding Club</h3>
   </div>
   <div class="row">

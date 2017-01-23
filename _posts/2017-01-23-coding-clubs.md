@@ -32,7 +32,7 @@ subtitle: Join a programming club! Meet new people, learn new skills and build e
   Python Club is a weekly meeting during term time concentrating on Python programming. Meetings are usually short talks on various aspects of Python, but also discussions around specific issues people are having, including teaching Python. It's run by Maths, but is of interest to anyone coding in Python. 
   </div>
   <div class="row">
-  To get on the mailing list, email <a href="https://www.maths.leeds.ac.uk/index.php?id=263&uid=1074">Rob Sturman</a>
+  To get on the mailing list, email <a href="https://www.maths.leeds.ac.uk/index.php?id=263&uid=1074">Rob Sturman</a>.
   </div>
 
 </div>

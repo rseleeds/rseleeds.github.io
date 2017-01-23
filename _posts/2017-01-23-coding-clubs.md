@@ -15,8 +15,7 @@ subtitle: Join a programming club! Meet new people, learn new skills and build e
   </div>
   <div class="row quote">
   &quot;Coding Club is a space in the week for researchers and students who want to set aside some time for learning new techniques, doing some socially useful coding, or just getting some eyes on a tricky problem.&quot;
-  </div>
-  <div class="row quote">
+  <br /><br />
   &quot;We have people who work in almost any language you care to mention, as well as the occasional hardware project. To get on the mailing list, email <a href="http://www.geog.leeds.ac.uk/people/a.evans/">Andy Evans</a> otherwise just bring a laptop and meet us in the caff.&quot;
   </div>
   <div class="row">

@@ -10,6 +10,16 @@ img {
     margin: 20px;
 }
 
+div.post div.row {
+    margin-bottom: 20px;
+}
+
+div.quote {
+    background-color: #f0f0f0;
+    font-style: italic;
+}
+
+
 // Mixins
 @mixin white-text {
     color: #fff;
@@ -40,6 +50,8 @@ img {
 }
 
 
+// Add a space between the page content and the footer
 .footer {
     margin-top: 30px;
 }
+

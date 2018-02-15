@@ -10,3 +10,5 @@ title: RSELeeds
 description: A network for research software engineers, and those who support them, at the University of Leeds.
 twitter: RSELeeds
 authors: Martin Callaghan, Chris Empson, Joanna Leng, Chris Wareing
+
+theme: jekyll-theme-architect
